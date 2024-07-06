@@ -1,6 +1,6 @@
 package org.bakaev.tdd1;
 
-public class Sum implements Expression{
+public class Sum implements Expression {
     public Expression augend;
     public Expression addend;
 
